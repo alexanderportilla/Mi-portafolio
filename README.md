@@ -1,4 +1,4 @@
-# Mi-Portafolio
+# Mi-CV
 
 ![Portafolio Alexander Portilla](https://github.com/alexanderportilla/Mi-portafolio/blob/e9502cc06e663fb3d8c47ed07dd2604a21f1f6cc/Mi%20portafolio.png)
 
